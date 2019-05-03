@@ -12,7 +12,7 @@ This is a default development environment made with Gulp 3 that minify CSS JS an
 npm install gulp@3
 ```
 
-# Installation
+## Installation
 
 Run
 
