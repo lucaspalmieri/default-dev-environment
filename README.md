@@ -19,3 +19,7 @@ Run
 ```
 npm install
 ```
+
+## Contributor
+
+Made by [Lucas Palmieri](https://lucaspalmieri.github.io/resume/)
