@@ -9,7 +9,7 @@ This is a default development environment made with Gulp 3 that minify CSS JS an
 *Gulp 3
 
 ```
-npm install gulp@3
+npm install-g gulp@3
 ```
 
 ## Installation
